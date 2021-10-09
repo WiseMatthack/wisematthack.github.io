@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, world !
+comments: off
 ---
 
 Ceci est mon premier post sur mon blog. Je n'ai rien de spécial à raconter, alors j'espère à tous que vous passez et passerez une bonne journée, après-midi - peu importe, tant que vous profitez !
