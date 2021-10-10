@@ -5,7 +5,7 @@ category: Critiques
 comments: off
 ---
 
-**The Mamas And The Papas - If You Can Believe Your Eyes And Ears (1966)**
+ # The Mamas And The Papas - If You Can Believe Your Eyes And Ears (1966)
 
 ![If You Can Believe Your Eyes And Ears]({{ site.baseurl }}/images/m-a-p-believe.png)
 
@@ -22,6 +22,6 @@ En réalité, pas grand chose, si ce n’est que c’est excellent ; le style du
 
 Seul point négatif en revanche mais qui ne concerne pas vraiment l'album, le mix stéréo est terrible (comme la plupart des mixes stéréo des années 60), les cuts sont audibles et tout est soit dans l'oreille gauche, soit dans l'oreille droite, donc à écouter en mono si vous le pouvez.
 
-**NOTE FINALE : ||10/10||**
+**NOTE FINALE : 10/10**
 
 (et oui, les toilettes ont vraiment été censurées de la pochette parce que jugées """indécentes""")
